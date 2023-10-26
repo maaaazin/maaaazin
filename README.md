@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I am Maazin.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
-<h3 align="center">CSE Junior at Symbiosis Institute of Technology, Pune.</h3>
+<h3 align="center">CSE undergrad. at Symbiosis Institute of Technology, Pune.</h3>
 
 
 ## ⚙️GitHub Analysis
