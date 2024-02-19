@@ -2,7 +2,10 @@
 <h3 align="center">CSE undergrad. at Symbiosis Institute of Technology, Pune.</h3>
 
 
-## ⚙️GitHub Analysis
+## ⚙️GitHub Analytics
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maaaazin&label=Profile%20views&color=0e75b6&style=flat" alt="maaaazin" /> </p>
+
 
 <p align="center">
 <a href="https://github.com/maaaazin">
